@@ -198,7 +198,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.917
+      - m_Value: 0.803
         m_Name: Directionality
         m_Overridden: 1
       - m_Value: 1
@@ -207,7 +207,7 @@ VisualEffect:
       - m_Value: 5
         m_Name: Spherize Factor
         m_Overridden: 1
-      - m_Value: 0.18
+      - m_Value: 0.74
         m_Name: Scattering Scale
         m_Overridden: 1
     m_Vector2f:
@@ -219,7 +219,7 @@ VisualEffect:
       m_Array: []
     m_Vector4f:
       m_Array:
-      - m_Value: {x: 7.6278534, y: 2.1565657, z: 0.63898236, w: 0}
+      - m_Value: {x: 17.148375, y: 3.5749161, z: 1.5368822, w: 0}
         m_Name: Fire Color
         m_Overridden: 1
     m_Uint:
@@ -466,7 +466,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100869025}
   m_LocalRotation: {x: -0.006338771, y: 0.8377839, z: 0.003582706, w: 0.5459535}
-  m_LocalPosition: {x: 5.886, y: -0.323, z: 5.087}
+  m_LocalPosition: {x: 5.785, y: 0.681, z: 4.838}
   m_LocalScale: {x: 3.6073995, y: 3.6074007, z: 3.6074998}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -836,7 +836,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 242535190}
   m_LocalRotation: {x: -0.006338771, y: 0.8377839, z: 0.003582706, w: 0.5459535}
-  m_LocalPosition: {x: 1.2960002, y: 0.23499995, z: -3.9069998}
+  m_LocalPosition: {x: 1.781, y: 0.241, z: -4.563}
   m_LocalScale: {x: 3.6073995, y: 3.6074007, z: 3.6074998}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1296,7 +1296,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 618514770}
   m_LocalRotation: {x: -0.006338771, y: 0.8377839, z: 0.003582706, w: 0.5459535}
-  m_LocalPosition: {x: -2.5609996, y: 0.23718482, z: -6.554}
+  m_LocalPosition: {x: -0.749, y: 0.266, z: -3.615}
   m_LocalScale: {x: 3.6073995, y: 3.6074007, z: 3.6074998}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1636,7 +1636,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.679
+      - m_Value: 0.535
         m_Name: Directionality
         m_Overridden: 1
       - m_Value: 5
@@ -2166,7 +2166,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.687
+      - m_Value: 0
         m_Name: Directionality
         m_Overridden: 1
       - m_Value: 1
@@ -2187,7 +2187,7 @@ VisualEffect:
       m_Array: []
     m_Vector4f:
       m_Array:
-      - m_Value: {x: 47.937256, y: 13.552941, z: 4.0156865, w: 0}
+      - m_Value: {x: 33.89676, y: 9.583377, z: 2.839519, w: 0}
         m_Name: Fire Color
         m_Overridden: 1
     m_Uint:
@@ -2571,7 +2571,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1301744322}
   m_LocalRotation: {x: -0.006338771, y: 0.8377839, z: 0.003582706, w: 0.5459535}
-  m_LocalPosition: {x: 0.3811741, y: 0.23499995, z: -2.0810523}
+  m_LocalPosition: {x: 1.466, y: 0.252, z: -1.18}
   m_LocalScale: {x: 3.6073995, y: 3.6074007, z: 3.6074998}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3137,7 +3137,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890340384}
   m_LocalRotation: {x: -0.006338771, y: 0.8377839, z: 0.003582706, w: 0.5459535}
-  m_LocalPosition: {x: -4.2652264, y: 0.23499995, z: -3.2390518}
+  m_LocalPosition: {x: -4.075, y: 0.238, z: -3.679}
   m_LocalScale: {x: 3.6073995, y: 3.6074007, z: 3.6074998}
   m_ConstrainProportionsScale: 0
   m_Children: []
