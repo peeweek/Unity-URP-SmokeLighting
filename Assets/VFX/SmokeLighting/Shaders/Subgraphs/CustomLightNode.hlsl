@@ -1,3 +1,6 @@
+// Based on Gist from Simon Broggi (https://gist.github.com/simonbroggi/672b979ca37b01db752e0087b26315ab) 
+// Helper for reading URP Main Light + Additonal Lights
+
 #ifndef CUSTOM_LIGHT_NODE
 #define CUSTOM_LIGHT_NODE
 
