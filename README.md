@@ -1,2 +1,12 @@
-# Unity-URP-SmokeLighting
-Universal Render Pipeline Shaders for Smoke Lighting  (Normal, 6-Way + ASTA Workflows) for VFX Graph and Shuriken
+# Unity Smoke Lighting Workflows for Universal Render Pipeline
+
+This project is a proof of concept of most common workflows for Smoke particles lighting:
+* Unity 2021.2
+* Universal Render Pipeline (Forward)
+* 
+
+It supports the following workflows :
+* Normal-Based with custom attenuation ramp
+* 6-Way Lightmaps (RLT+BBF)
+* ASTA (Ambient, Scattering, Temperature and Alpha) Workflow for explosions
+
